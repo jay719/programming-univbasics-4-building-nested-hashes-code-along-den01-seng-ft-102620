@@ -1,4 +1,4 @@
-def fourth
+def fourth_challenge
 epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
@@ -19,3 +19,4 @@ epic_tragedy = {
       ]
    }
 }
+end
